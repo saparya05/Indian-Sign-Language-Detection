@@ -31,7 +31,7 @@ python scripts/collect_data.py
 ```
 bash
 python scripts/train_model.py
-
+```
 3. Run Real-Time Prediction:
 ```
 bash
