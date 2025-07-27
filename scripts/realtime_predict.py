@@ -5,7 +5,7 @@ import joblib
 import pandas as pd
 
 # Load the trained model and label encoder
-model, label_encoder = joblib.load("gesture_model.pkl")
+model, label_encoder = joblib.load("C:/Users/abc/Desktop/ISL/Sign-Language-Detection/models/gesture_model.pkl")
 
 # MediaPipe initialization
 mp_hands = mp.solutions.hands
