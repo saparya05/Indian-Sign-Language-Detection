@@ -30,7 +30,7 @@ python scripts/collect_data.py
 2. Train Model:
 ```
 bash
-python scripts/train_model.py
+python scripts/train_alphabet_model.py
 ```
 3. Run Real-Time Prediction:
 ```
